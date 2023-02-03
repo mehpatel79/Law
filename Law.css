@@ -1,0 +1,60 @@
+.head1 {
+  height: 30px;  
+}
+
+.head2{
+  top: -30px;
+}
+
+
+
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("OIP.jfif");
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.masthead2 {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("Hand.jpg");
+    opacity: 0.8;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  
+.sec3{
+  height: 400px;
+}
+
+
+  i.rfa {
+  border: gray solid 1px;
+  padding: 12px;
+  margin: 5px;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+
+
+.home-testimonial{background-color: #b3c5ee;height: 800px; background-image:url(StateLaw.jpg);}
+.home-testimonial-bottom{background-color: #f8f8f8;transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top: 20px;margin-bottom: 0px;position: relative;height: 130px;top: 190px}
+.home-testimonial h3{color: white;font-size: 28px;}
+.home-testimonial h2{color: white;font-size: 15px;}
+.testimonial-inner{position: relative;top: -174px}
+.testimonial-pos{position: relative;top: 24px}
+.testimonial-inner .tour-desc{border-radius: 5px;padding: 40px}
+.color-grey-3{font-family: "Montserrat", Sans-serif;font-size: 14px;color: #6c83a2}
+.testimonial-inner img.tm-people{width: 250px;height: 250px;-webkit-border-radius: 50%;border-radius: 50%;-o-object-fit: cover;object-fit: cover;max-width: none}
+.link-name{font-family: "Montserrat", Sans-serif;font-size: 20px;color: #6c83a2}
+.link-position{font-family: "Montserrat", Sans-serif;font-size: 15px;color: #a4bfe3}
+
+
+
